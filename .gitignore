@@ -1,0 +1,4 @@
+# Ignorer les fichiers sensibles
+.env
+config.yaml
+parameters.yml
